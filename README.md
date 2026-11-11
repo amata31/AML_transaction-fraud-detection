@@ -65,9 +65,9 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter No
 ## Repository Structure
 
 ```text
-aml-transaction-fraud-detection/
+AML-transaction-fraud-detection/
 │
-└── Assessment_Aurora_AML.ipynb
+└── AML_Account_Risk_Classification.ipynb
 ```
 
 ## Author
